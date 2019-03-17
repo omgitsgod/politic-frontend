@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Paper, Typography, Grid, Divider, Tabs, Tab, } from '@material-ui/core'
-import { NotificationImportant, Favorite, AccessTime } from '@material-ui/icons'
+import { NotificationImportant, AccessTime } from '@material-ui/icons'
 import { withStyles } from '@material-ui/core/styles'
 import MediaCard from './MediaCard'
 import { API_ROOT, HEADERS } from './constants';

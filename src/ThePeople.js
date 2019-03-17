@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import { Paper, Typography, Grid, Divider} from '@material-ui/core'
 import { withStyles } from '@material-ui/core/styles'
-import MediaCard from './MediaCard'
-import { API_ROOT, HEADERS } from './constants';
 import Feds from './Feds'
 import Pol from './Pol'
 
